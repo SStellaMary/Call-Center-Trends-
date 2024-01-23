@@ -1,6 +1,30 @@
 **Call Center Trends Dashboard - Microsoft PowerBI**_
 Revolutionize your call center operations with our cutting-edge Call Center Trends Analysis Dashboard, meticulously crafted in Power BI. This dynamic and visually stunning tool empowers organizations to gain invaluable insights into their call center performance, enabling data-driven decision-making for enhanced customer service and operational efficiency.
 
+I participated in the open-access PwC Data Analytics Virtual Experience Program with Forage. Where I worked as a data analyst intern to help an organization named “PhoneNow” to analyze their data and help them understand how they can leverage on their massive amount of data.
+
+I worked on this project by following the Pwc virtual Experience on power BI at Forage. 
+
+**Project Overview & Business Problem:**
+Client’s Name: Clarie
+
+Client’s Industry: Telecom Company
+
+I am working as a data analyst intern for PwC Switzerland when one of our important clients, a big telecom company reach out to me, to help visualize their data. Claire, the call center manager at Clarie (PhoneNow) wants me to help bring out insight from their call center data, she wants to know the total number of calls answered and abandoned, speed of answer, length of calls, overall customer satisfaction, and most importantly, she’s interested in knowing the accurate overview of long-term trends in customers and agent’s behavior. 
+
+From Claire’s mail, her KPIs includes (but not limited to):
+
+* Overall customer satisfaction
+* Overall calls answered and abandoned
+* Calls by time
+* Average speed of answer
+* Agents performance quadrant.
+
+Tools Used: 
+
+*Microsoft Excel - Data Cleaning
+*Microsoft PowerBI - Dashboard Creation. 
+
 Description about my project: 
 Introduction
 - This is an analysis of call center data over a 3 month period in 2021, including call volume, topics, resolution rates, agent performance, and customer satisfaction. 
@@ -29,3 +53,5 @@ Presenting Recommendations
 - Set a goal to improve satisfaction rating to 4+ out of 5. Focus on first call resolution.
 
 In summary, the data shows opportunities to improve call volume, operational efficiency and customer satisfaction through targeted investments in self-service, staffing realignment and resolution procedures. A data-driven approach helps identify key metrics, insights and potential recommendations.
+
+I wanted to express my sincere gratitude for providing me with the opportunity to showcase my skills in call center trends analysis using PowerBI. I appreciate the chance to contribute to the process and demonstrate my capabilities. Thank you!.. 
