@@ -1,11 +1,11 @@
-**Call Center Trends Dashboard - Microsoft PowerBI**_
+Call Center Trends Dashboard - Microsoft PowerBI
 Revolutionize your call center operations with our cutting-edge Call Center Trends Analysis Dashboard, meticulously crafted in Power BI. This dynamic and visually stunning tool empowers organizations to gain invaluable insights into their call center performance, enabling data-driven decision-making for enhanced customer service and operational efficiency.
 
 I participated in the open-access PwC Data Analytics Virtual Experience Program with Forage. Where I worked as a data analyst intern to help an organization named “PhoneNow” to analyze their data and help them understand how they can leverage on their massive amount of data.
 
 I worked on this project by following the Pwc virtual Experience on power BI at Forage. 
 
-**Project Overview & Business Problem:**
+Project Overview & Business Problem:
 Client’s Name: Clarie
 
 Client’s Industry: Telecom Company
